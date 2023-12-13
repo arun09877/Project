@@ -1,0 +1,13 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 90vh;
+  background: url('D:\arun react project\myrooms\src\asserts\pexels-meike-18946092.jpg')
+  no-repeat;
+  background-size: cover;
+  background-position:center;
+}
